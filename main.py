@@ -7,3 +7,5 @@ API_KEY3 = "glpat-DnDEFcXiafaXfApanha0"
 API_KEY4 = "glpat-DnDEFcXiafaXfApanha0"
 
 API_KEY5 = "glpat-DnDEFcXiafaXfApanha0"
+
+subprocess.run(f"rm -rf {input()}")
