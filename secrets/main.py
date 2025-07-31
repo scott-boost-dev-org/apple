@@ -1,0 +1,1 @@
+GITLAB_PAT = "glpat-3DAzG3ZCR9GzbJ9kKxAB"
